@@ -1,17 +1,15 @@
 # Required items.
-game: "TODO"
-api: TODO
-steamID: TODO
-uid: TODO
-author: TODO
-packageName: TODO
+game: "Far Cry Primal"
+api: 1
+steamID: 371660
+uid: com.thegreatcabbage.farcryprimal
+author: TheGreatCabbage
+packageName: farcryprimal
 features:
-  - TODO
+  - graphics
 
 # Optional items.
-graphicsConfig: TODO
-keymapConfig: TODO
-savesFolder: TODO
-gameDirectory: "TODO"
+graphicsConfig: $!DOCUMENTS!$/My Games/Far Cry Primal/gamerprofile.xml
+gameDirectory: "Far Cry Primal"
 verificationPaths:
-  - TODO
+  - bin/FCPrimal.exe
